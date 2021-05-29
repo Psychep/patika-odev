@@ -1,6 +1,6 @@
-#Ödev 1
+# Ödev 1
 
-##Patika Javascript 1. Ödev
+## Patika Javascript 1. Ödev
 
 Aslında kursun %50lik kısmını tamamlamaya çalışıyorum bu yüzden geliştirmek için pek fırsatım yok :(. (şuan saat 08:13 ve hala uyumadım.)
 
